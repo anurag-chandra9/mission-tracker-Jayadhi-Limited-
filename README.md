@@ -35,10 +35,6 @@ A full-stack mission management dashboard built with React (Vite, TailwindCSS, G
    ```
    npm run dev
    ```
-5. (Optional) Create an initial admin:
-   ```
-   node scripts/createAdmin.js
-   ```
 
 ### Frontend Setup
 
